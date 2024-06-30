@@ -1,0 +1,15 @@
+#contact iframe
+{
+    width: 100%;
+}
+.school_MainDiv {
+border:1px solid black ;
+}
+.school_MainDiv{
+
+    width:100%;
+}
+.school_MainDiv p, .school_MainDiv h5  {
+margin:20px;
+    
+}
